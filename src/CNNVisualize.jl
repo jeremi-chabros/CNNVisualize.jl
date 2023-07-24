@@ -4,8 +4,8 @@ module CNNVisualize
 
 using Flux, Plots, Images, Augmentor
 using GR
+using Tracker
 
-# clibrary(:colorcet)
 
 include("backpropagation.jl")
 include("gradcam.jl")
