@@ -4,7 +4,6 @@ authors = ["jjc80 <jeremi.chabros@gmail.com>"]
 version = "0.1.0"
 [deps]
 Augmentor = "02898b10-1f73-11ea-317c-6393d7073e15"
-CNNVisualize = "35d1e76a-f8db-4125-83a6-99319e1764ec"
 DICOM = "a26e6606-dd52-5f6a-a97f-4f611373d757"
 DataAugmentation = "88a5189c-e7ff-4f85-ac6b-e6158070f02e"
 ExplainableAI = "4f1bc3e1-d60d-4ed0-9367-9bdff9846d3b"
