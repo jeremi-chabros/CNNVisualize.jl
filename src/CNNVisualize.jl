@@ -4,8 +4,6 @@ module CNNVisualize
 
 using Flux, Plots, Images, Augmentor
 using GR
-using Flux: Tracker
-using Flux.Tracker: data
 
 clibrary(:colorcet)
 
